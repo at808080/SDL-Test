@@ -10,6 +10,7 @@ public:
 	bool isEnded();
 
 private:
+	bool special;
 	bool repeat;
 	bool ended;
 	int currentFrame;
