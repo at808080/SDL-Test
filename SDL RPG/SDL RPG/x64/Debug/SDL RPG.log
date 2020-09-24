@@ -1,0 +1,8 @@
+﻿  Player.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Entity.h(21,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Entity.h(22,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Player.cpp(25,27): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Player.cpp(26,27): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Player.cpp(82,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Player.cpp(82,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDL RPG.vcxproj -> C:\Users\ajtro\Desktop\cpp\SDL RPG\x64\Debug\SDL RPG.exe

@@ -1,0 +1,23 @@
+﻿  AnimationComponent.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\AnimationComponent.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Being.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Entity.h(9,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Clock.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Clock.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Game.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Entity.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Entity.h(9,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  InputHandler.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\InputHandler.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Game.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  BaseEntity.cpp
+  PhysicsComponent.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\PhysicsComponent.cpp(6,19): warning C4305: '=': truncation from 'double' to 'float'
+  Player.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\Entity.h(9,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+C:\Users\ajtro\Desktop\cpp\SDL RPG\SDL RPG\TextureManager.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MovementComponent.cpp
+  Vector2f.cpp
